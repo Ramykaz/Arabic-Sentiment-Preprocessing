@@ -1,29 +1,12 @@
-# Arabic Sentiment Preprocessing
+# Arabic Sentiment Preprocessing  
 
-This repository contains scripts for preprocessing Arabic sentiment datasets, including text cleaning, tokenization, feature extraction, and retweet network analysis.
+This repository contains Python scripts for **preprocessing Arabic sentiment datasets**, focusing on text cleaning, tokenization, feature extraction, and retweet network analysis. The goal is to enhance data quality for **sentiment classification models**, particularly **Convolutional Neural Networks (CNNs)** trained on word embeddings (GloVe, Skip-Gram, CBOW).  
 
+This project was part of my **research internship under Prof. Hala Mulki** at **Ortadoğu Araştırmaları Merkezi - ORSAM**. My primary contribution was **data preprocessing and analysis**, ensuring the dataset was optimized for deep learning-based sentiment classification.  
 
-## Setup
-1. Clone the repository:
+📄 **Read the research paper:** [docs/reasearch_paper.pdf](docs/research_paper.pdf)  
 
-git clone https://github.com/yourusername/Arabic-Sentiment-Preprocessing.git cd Arabic-Sentiment-Preprocessing
+---
 
-2. Install dependencies:
-pip install -r requirements.txt
+## 📂 Project Structure  
 
-3. Run preprocessing:
-python scripts/text_cleaning.py python scripts/tokenization.py python scripts/ngram_analysis.py python scripts/network_analysis.p
-
-
-## Acknowledgments
-This project was part of my research under Prof.Hala Mulki at Ortadoğu Araştırmaları Merkezi - ORSAM. It was a preprocessing and data analysis task for a research designed to improve sentiment classification using deep learning models. For more information read the paper i wrote on my internship under the docs folder. 
-
-## requirements.txt
-pandas
-numpy
-nltk
-matplotlib
-seaborn
-wordcloud
-networkx
-farasa
