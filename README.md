@@ -8,5 +8,39 @@ This project was part of my **research internship under Prof. Hala Mulki** at **
 
 ---
 
-## 📂 Project Structure  
+
+---
+
+## 🚀 Installation & Setup  
+
+### 1️⃣ Clone the repository  
+```sh
+git clone https://github.com/yourusername/Arabic-Sentiment-Preprocessing.git
+cd Arabic-Sentiment-Preprocessing
+---
+
+### 2️⃣ Install dependencies
+pip install -r requirements.txt
+
+### 3️⃣ Run preprocessing scripts
+
+
+## 🛠 Dependencies
+Ensure you have the following Python libraries installed:
+
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+wordcloud
+networkx
+farasa
+To install all dependencies:
+pip install -r requirements.txt
+
+### 🏆 Acknowledgments
+This project was part of my research under Prof. Hala Mulki at Ortadoğu Araştırmaları Merkezi - ORSAM. It was a preprocessing and data analysis task aimed at improving sentiment classification using deep learning models.
+
+ 
 
