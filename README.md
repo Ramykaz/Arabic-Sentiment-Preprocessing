@@ -18,7 +18,7 @@ python scripts/text_cleaning.py python scripts/tokenization.py python scripts/ng
 ## Acknowledgments
 This project was part of my research under Prof.Hala Mulki at Ortadoğu Araştırmaları Merkezi - ORSAM. It was a preprocessing and data analysis task for a research designed to improve sentiment classification using deep learning models. For more information read the paper i wrote on my internship under the docs folder. 
 
-5. requirements.txt
+## requirements.txt
 pandas
 numpy
 nltk
