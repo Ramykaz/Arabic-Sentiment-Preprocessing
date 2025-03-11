@@ -2,9 +2,6 @@
 
 This repository contains scripts for preprocessing Arabic sentiment datasets, including text cleaning, tokenization, feature extraction, and retweet network analysis.
 
-## Project Structure
-Arabic-Sentiment-Preprocessing/ │── data/ # Raw and cleaned datasets │── notebooks/ # Jupyter Notebooks │── scripts/ # Python preprocessing scripts │── README.md # Project documentation │── requirements.txt # Dependencies │── .gitignore # Ignore unnecessary files
-
 
 ## Setup
 1. Clone the repository:
