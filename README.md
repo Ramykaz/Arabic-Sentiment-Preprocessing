@@ -4,7 +4,7 @@ This repository contains Python scripts for **preprocessing Arabic sentiment dat
 
 This project was part of my **research internship under Prof. Hala Mulki** at **Ortadoğu Araştırmaları Merkezi - ORSAM**. My primary contribution was **data preprocessing and analysis**, ensuring the dataset was optimized for deep learning-based sentiment classification.  
 
-📄 **Read the research paper:** [docs/Research_paper.pdf](docs/Research_paper.pdf)  
+📄 **Read theresearch paper:** [docs/Research_paper.pdf](docs/Research_paper.pdf)  based on the actual research which was done by my supervisor Prof. Hala Mulki [docs/Empirical-Evaluation-of-Word-Representations-on-Arabic-Sentiment-Analysis.pdf](docs/Empirical-Evaluation-of-Word-Representations-on-Arabic-Sentiment-Analysis.pdf)
 
 ---
 
