@@ -6,7 +6,7 @@ This project was part of my **research internship under Prof. Hala Mulki** at **
 
 📄 **Read the research paper of my Supervisor for Context:** [docs/Empirical-Evaluation-of-Word-Representations-on-Arabic-Sentiment-Analysis.pdf](docs/Empirical-Evaluation-of-Word-Representations-on-Arabic-Sentiment-Analysis.pdf) 
 
-I have written paper on the tasks I did and how preprocessing ensure dataset was optimizsed for the deep-learning based sentimnet classification, you can find that at:  [docs/Reasearch_Paper.pdf](docs/Research_paperpdf) 
+I have written paper on the tasks I did and how preprocessing ensure dataset was optimizsed for the deep-learning based sentiment classification, you can find that at:  [docs/Reasearch_paper.pdf](docs/Research_paper.pdf) 
 
 ---
 
